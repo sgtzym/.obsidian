@@ -1,6 +1,6 @@
 # .obsidian
 
-My personal Obsidian setup: themes, snippets and plugins.
+My personal Obsidian setup: settings, plugins, theme and snippets.
 
 ## Community Plugins
 
