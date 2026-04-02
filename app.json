@@ -11,5 +11,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "attachmentFolderPath": "attachments",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

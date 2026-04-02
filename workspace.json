@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "17f1cb39fb3c20f5",
+        "id": "482dc65544c70b37",
         "type": "tabs",
         "children": [
           {
-            "id": "79ed791e89b46c99",
+            "id": "954f551209887d4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "notes/install-apps.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "install-apps"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/github-authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Backlinks for github-authentication"
             }
           },
           {
@@ -181,13 +182,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "79ed791e89b46c99",
+  "active": "954f551209887d4c",
   "lastOpenFiles": [
-    "notes/notizen-machen.md",
+    "notes/marker-drawing-effect.md",
+    "notes/sampling.md",
+    "notes/storage-setup.md",
+    "notes/ssh-keys.md",
+    "notes/sdxl-cheatsheet.md",
+    "notes/install-segoe-ui.md",
+    "notes/install-apps.md",
+    "notes/home-network.md",
+    "notes/gyst.md",
+    "notes/prompting.md",
     "notes/growing-the-evergreens.md",
-    "README.md",
-    "Unbenannt.base",
+    "notes/establishing-shot.md",
+    "notes/camera-shot-sizes.md",
+    "notes/camera-shot-angles.md",
+    "notes/gyst-ai-models.md",
+    "notes/gyst-adult.md",
+    "notes/gyst-ebooks.md",
+    "notes/gyst-digimon-tcg.md",
+    "notes/gyst-artwork.md",
+    "notes/notizen-machen.md",
     "templates/map.md",
+    "attachments/mazzs-workflow/01.png",
+    "attachments/mazzs-workflow/03.png",
+    "journal/Untitled.md",
+    "journal/test.md",
+    "templates/3-evergreen.md",
+    "templates/journal.md",
+    "templates/reference.md",
+    "attachments/mazzs-workflow/07.png",
+    "attachments/mazzs-workflow/09.png",
+    "attachments/mazzs-workflow/05.png",
+    "attachments/pasted-20260329235559.png",
+    "attachments/pasted-20260330005449.png",
+    "attachments/mazzs-workflow/02.png",
+    "attachments/mazzs-workflow/10.png",
+    "attachments/mazzs-workflow/06.png",
+    "attachments/mazzs-workflow",
+    "Untitled.canvas",
+    "Unbenannt.base",
     "journal",
     "notes"
   ]
