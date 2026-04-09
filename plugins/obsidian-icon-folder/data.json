@@ -1,0 +1,80 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiLeaf",
+      "LiMap",
+      "LiSprout",
+      "LiTreePine",
+      "LiInbox"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": ".*\\.(png|jpg|jpeg|avif|webp)$",
+        "icon": "LiImage",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": ".*\\.md$",
+        "icon": "LiFile",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "^[^.]+$",
+        "icon": "LiFolder",
+        "for": "everything",
+        "order": 2
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "journal": "LiNotebook",
+  "notes": "LiInbox",
+  "attachments": "LiPaperclip",
+  "templates": "LiClipboard",
+  "templates/reference.md": "LiBinoculars",
+  "templates/map.md": {
+    "iconName": "LiMap",
+    "iconColor": "#d08770"
+  },
+  "templates/journal.md": {
+    "iconName": "LiFileText"
+  },
+  "templates/3-evergreen.md": {
+    "iconName": "LiTreePine",
+    "iconColor": "#a3be8c"
+  },
+  "templates/2-sapling.md": {
+    "iconName": "LiSprout",
+    "iconColor": "#a3be8c"
+  },
+  "templates/1-seedling.md": {
+    "iconName": "LiLeaf",
+    "iconColor": "#a3be8c"
+  }
+}

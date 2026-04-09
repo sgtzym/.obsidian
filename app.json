@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "deleteUnlinkedAttachments": "always",
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "attachments/",
+    "templates/"
+  ],
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "attachments",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
+}

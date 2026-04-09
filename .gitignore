@@ -1,0 +1,5 @@
+/plugins/**/*.js
+/plugins/**/*.css
+/plugins/**/manifest.json
+
+workspace.json
